@@ -1,9 +1,12 @@
+item designs
+87 Ward of Brilliance
+88 Ward of Darkness
+
+
 city events
 10 returned to deck
 29 return to deck
-11 trash > random item design Ward of darkness 88
-
-Ward of Brilliance 87
+11 trash
 
 road events
 22 removed

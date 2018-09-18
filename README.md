@@ -5,6 +5,9 @@ https://www.boardgamegeek.com/image/3936014/gloomhaven
 https://github.com/saizai/gloomhaven_tts
 https://www.reddit.com/r/Gloomhaven/comments/6lmxz3/class_guide_repository/
 
+# shop inventory
+https://www.reddit.com/r/Gloomhaven/comments/8aayik/
+
 # images and data
 https://github.com/any2cards/gloomhaven
 

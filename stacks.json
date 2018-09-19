@@ -202,14 +202,47 @@
       524,
       525,
       526,
-      527,
       528,
       530,
       531,
       532,
       533
     ],
-    "list": [],
-    "history": []
-  }
+    "list": [
+      527
+    ],
+    "history": [
+      {
+        "action": "drawn",
+        "card": 527
+      }
+    ]
+  },
+  "itemDesigns": {
+    "list": [
+      123
+    ],
+    "history": [
+      {
+        "action": "added cards",
+        "cards": [
+          123
+        ]
+      }
+    ]
+  },
+  "singleItems": {
+    "list": [
+      19
+    ],
+    "history": [
+      {
+        "action": "added cards",
+        "cards": [
+          19
+        ]
+      }
+    ]
+  },
+  "prosperity": 2
 }

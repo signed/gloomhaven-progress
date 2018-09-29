@@ -7,6 +7,8 @@ https://github.com/m-ender/gloomhaven-rules
 https://github.com/saizai/gloomhaven_tts
 https://www.reddit.com/r/Gloomhaven/comments/6lmxz3/class_guide_repository/
 
+https://gloomhaven.net/
+
 # shop inventory
 https://www.reddit.com/r/Gloomhaven/comments/8aayik/
 

@@ -1,35 +1,36 @@
 {
   "cityEvents": {
     "stack": [
-      13,
-      30,
-      14,
-      28,
-      6,
-      8,
       3,
-      26,
-      1,
-      24,
-      23,
       22,
-      41,
-      18,
-      12,
       5,
-      2,
-      16,
-      9,
-      21,
-      29,
-      47,
-      19,
-      7,
-      25,
       27,
-      4,
+      21,
+      23,
+      29,
+      13,
+      24,
+      16,
+      26,
+      10,
+      12,
+      6,
+      1,
       15,
-      10
+      8,
+      19,
+      41,
+      14,
+      47,
+      7,
+      71,
+      18,
+      25,
+      9,
+      4,
+      28,
+      2,
+      30
     ],
     "history": [
       {
@@ -76,12 +77,21 @@
       {
         "event": 73,
         "action": "removed from game"
+      },
+      {
+        "event": 13,
+        "action": "returned to bottom"
+      },
+      {
+        "action": "added cards & shuffled",
+        "cards": [
+          71
+        ]
       }
     ]
   },
   "roadEvents": {
     "stack": [
-      10,
       7,
       4,
       2,
@@ -137,13 +147,18 @@
       {
         "event": 26,
         "action": "removed from game"
+      },
+      {
+        "event": 10,
+        "action": "removed from game"
       }
     ]
   },
   "randomItemDesigns": {
     "list": [
       87,
-      88
+      88,
+      92
     ],
     "stack": [
       71,
@@ -165,7 +180,6 @@
       89,
       90,
       91,
-      92,
       93,
       94,
       95
@@ -178,6 +192,10 @@
       {
         "action": "drawn",
         "card": 88
+      },
+      {
+        "action": "drawn",
+        "card": 92
       }
     ]
   },

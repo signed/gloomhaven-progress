@@ -1,8 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      17,
-      73,
       13,
       30,
       14,
@@ -70,12 +68,19 @@
       {
         "event": 10,
         "action": "returned to bottom"
+      },
+      {
+        "event": 17,
+        "action": "removed from game"
+      },
+      {
+        "event": 73,
+        "action": "removed from game"
       }
     ]
   },
   "roadEvents": {
     "stack": [
-      26,
       10,
       7,
       4,
@@ -127,6 +132,10 @@
       },
       {
         "event": 24,
+        "action": "removed from game"
+      },
+      {
+        "event": 26,
         "action": "removed from game"
       }
     ]

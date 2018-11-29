@@ -1,7 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      3,
       22,
       5,
       27,
@@ -87,12 +86,15 @@
         "cards": [
           71
         ]
+      },
+      {
+        "event": 3,
+        "action": "removed from game"
       }
     ]
   },
   "roadEvents": {
     "stack": [
-      7,
       4,
       2,
       23,
@@ -150,6 +152,10 @@
       },
       {
         "event": 10,
+        "action": "removed from game"
+      },
+      {
+        "event": 7,
         "action": "removed from game"
       }
     ]
@@ -267,6 +273,7 @@
   },
   "singleItems": {
     "list": [
+      125,
       19
     ],
     "history": [
@@ -274,6 +281,12 @@
         "action": "added cards",
         "cards": [
           19
+        ]
+      },
+      {
+        "action": "added cards",
+        "cards": [
+          125
         ]
       }
     ]

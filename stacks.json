@@ -1,7 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      22,
       5,
       27,
       21,
@@ -89,6 +88,10 @@
       },
       {
         "event": 3,
+        "action": "removed from game"
+      },
+      {
+        "event": 22,
         "action": "removed from game"
       }
     ]
@@ -260,6 +263,7 @@
   },
   "itemDesigns": {
     "list": [
+      113,
       123
     ],
     "history": [
@@ -267,6 +271,12 @@
         "action": "added cards",
         "cards": [
           123
+        ]
+      },
+      {
+        "action": "added cards",
+        "cards": [
+          113
         ]
       }
     ]

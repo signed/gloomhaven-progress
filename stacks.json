@@ -1,7 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      5,
       27,
       21,
       23,
@@ -92,6 +91,10 @@
       },
       {
         "event": 22,
+        "action": "removed from game"
+      },
+      {
+        "event": 5,
         "action": "removed from game"
       }
     ]

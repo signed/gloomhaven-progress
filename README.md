@@ -9,6 +9,8 @@ https://www.reddit.com/r/Gloomhaven/comments/6lmxz3/class_guide_repository/
 
 https://gloomhaven.net/
 
+https://boardgamegeek.com/thread/1733586/files-creation
+
 # shop inventory
 https://www.reddit.com/r/Gloomhaven/comments/8aayik/
 

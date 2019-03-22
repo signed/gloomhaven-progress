@@ -14,6 +14,9 @@ https://boardgamegeek.com/thread/1733586/files-creation
 # shop inventory
 https://www.reddit.com/r/Gloomhaven/comments/8aayik/
 
+# Rulebook
+- https://github.com/m-ender/gloomhaven-rules
+
 # images and data
 - https://github.com/any2cards/gloomhaven
 - [2nd printing changelog] (https://boardgamegeek.com/thread/1761512/official-second-printing-change-log/page/1)
@@ -28,3 +31,5 @@ https://www.reddit.com/r/Gloomhaven/comments/8aayik/
 * https://imgur.com/gallery/W1Dnw#HasSCWs
 + https://imgur.com/a/phrxy
 
+# Other online tools
+- [gloomhavenguild](https://www.gloomhavenguild.com/) [Video](https://youtu.be/h12AdLoYV-U)

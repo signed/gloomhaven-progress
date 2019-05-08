@@ -1,7 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      27,
       21,
       23,
       29,
@@ -96,6 +95,10 @@
       {
         "event": 5,
         "action": "removed from game"
+      },
+      {
+        "event": 27,
+        "action": "removed from game"
       }
     ]
   },
@@ -168,6 +171,7 @@
   },
   "randomItemDesigns": {
     "list": [
+      77,
       87,
       88,
       92
@@ -179,7 +183,6 @@
       74,
       75,
       76,
-      77,
       78,
       79,
       80,
@@ -208,6 +211,10 @@
       {
         "action": "drawn",
         "card": 92
+      },
+      {
+        "action": "drawn",
+        "card": 77
       }
     ]
   },

@@ -1,7 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      21,
       23,
       29,
       13,
@@ -99,37 +98,42 @@
       {
         "event": 27,
         "action": "removed from game"
+      },
+      {
+        "event": 21,
+        "action": "removed from game"
       }
     ]
   },
   "roadEvents": {
     "stack": [
-      4,
-      2,
-      23,
-      18,
+      3,
+      12,
+      21,
+      65,
       41,
       19,
-      12,
+      16,
+      18,
       47,
       5,
-      25,
-      9,
-      1,
-      8,
-      28,
-      20,
-      3,
+      17,
       6,
       15,
+      28,
+      1,
+      20,
       13,
-      29,
-      17,
       30,
-      14,
       27,
-      16,
-      21
+      23,
+      25,
+      9,
+      2,
+      8,
+      14,
+      4,
+      29
     ],
     "history": [
       {
@@ -166,6 +170,12 @@
       {
         "event": 7,
         "action": "removed from game"
+      },
+      {
+        "action": "added cards & shuffled",
+        "cards": [
+          65
+        ]
       }
     ]
   },
@@ -274,6 +284,7 @@
   "itemDesigns": {
     "list": [
       113,
+      116,
       123
     ],
     "history": [
@@ -287,6 +298,12 @@
         "action": "added cards",
         "cards": [
           113
+        ]
+      },
+      {
+        "action": "added cards",
+        "cards": [
+          116
         ]
       }
     ]
@@ -311,5 +328,5 @@
       }
     ]
   },
-  "prosperity": 2
+  "prosperity": 3
 }

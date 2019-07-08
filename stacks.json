@@ -1,8 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      28,
-      37,
       4,
       18,
       41,
@@ -119,6 +117,14 @@
         "cards": [
           37
         ]
+      },
+      {
+        "event": 28,
+        "action": "removed from game"
+      },
+      {
+        "event": 37,
+        "action": "removed from game"
       }
     ]
   },
@@ -298,17 +304,21 @@
       526,
       528,
       530,
-      531,
       532,
       533
     ],
     "list": [
-      527
+      527,
+      531
     ],
     "history": [
       {
         "action": "drawn",
         "card": 527
+      },
+      {
+        "action": "drawn",
+        "card": 531
       }
     ]
   },
@@ -341,6 +351,7 @@
   },
   "singleItems": {
     "list": [
+      100,
       125,
       19,
       33
@@ -362,6 +373,12 @@
         "action": "added cards",
         "cards": [
           33
+        ]
+      },
+      {
+        "action": "added cards",
+        "cards": [
+          100
         ]
       }
     ]

@@ -1,7 +1,6 @@
 {
   "cityEvents": {
     "stack": [
-      4,
       18,
       41,
       7,
@@ -125,12 +124,15 @@
       {
         "event": 37,
         "action": "removed from game"
+      },
+      {
+        "event": 4,
+        "action": "removed from game"
       }
     ]
   },
   "roadEvents": {
     "stack": [
-      18,
       1,
       6,
       17,
@@ -213,6 +215,10 @@
         "cards": [
           37
         ]
+      },
+      {
+        "event": 18,
+        "action": "removed from game"
       }
     ]
   },
@@ -354,7 +360,8 @@
       100,
       125,
       19,
-      33
+      33,
+      98
     ],
     "history": [
       {
@@ -380,8 +387,14 @@
         "cards": [
           100
         ]
+      },
+      {
+        "action": "added cards",
+        "cards": [
+          98
+        ]
       }
     ]
   },
-  "prosperity": 3
+  "prosperity": 4
 }
